@@ -11,7 +11,7 @@ To use this template, either create a new ionic project using the ionic node.js 
 Clone a repository with `git clone `
 
 ```bash
-$ git clone https://github.com/vishal-addweb/firebasedemo.git
+$ git clone https://github.com/web-mobile-developer/Social-Login.git
 $ npm install
 ```
 Then install angularfire2 and firebase using Below Command
