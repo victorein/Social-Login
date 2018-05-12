@@ -18,7 +18,7 @@ Then install angularfire2 and firebase using Below Command
 
 ```bash
 $ npm install firebase@4.6.0 --save
-$ npm install angularfire2@5.0.0-rc.3 --save
+$ npm install angularfire2@^5.0.0-rc.5-next --save
 
 ```
 Then, to run it, cd into `myBlank` and run:
